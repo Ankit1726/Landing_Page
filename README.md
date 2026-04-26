@@ -44,7 +44,9 @@ It is designed to present the product idea clearly to users, recruiters, and sta
 
 ---
 
-## 📸 Screenshots
+### 🔹 Landing Page View
+
+![Landing Page](landing_page.png)
 
 > Add your screenshots here for better showcase
 
