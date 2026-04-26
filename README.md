@@ -48,8 +48,6 @@ It is designed to present the product idea clearly to users, recruiters, and sta
 
 ![Landing Page](landing_page.png)
 
-> Add your screenshots here for better showcase
-
 * Hero Section
 * Features Section
 * About / Use Case Section
